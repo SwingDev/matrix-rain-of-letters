@@ -1,0 +1,1179 @@
+﻿Log file open, 02/19/18 17:26:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MatrixRainShader
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1832252709) SRandInit(1832252710).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.259002
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.19-16.27.02:249][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.19-16.27.02:249][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.19-16.27.02:275][  0]LogInit: Computer: DESKTOP-IMDCEVB
+[2018.02.19-16.27.02:275][  0]LogInit: User: bgadz
+[2018.02.19-16.27.02:275][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.19-16.27.02:275][  0]LogInit: High frequency timer resolution =2.742188 MHz
+[2018.02.19-16.27.02:275][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.19-16.27.02:275][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.19-16.27.02:275][  0]LogMemory: Process Physical Memory: 274.06 MB used, 274.06 MB peak
+[2018.02.19-16.27.02:275][  0]LogMemory: Process Virtual Memory: 269.66 MB used, 269.66 MB peak
+[2018.02.19-16.27.02:276][  0]LogMemory: Physical Memory: 6341.91 MB used,  9928.30 MB free, 16270.21 MB total
+[2018.02.19-16.27.02:276][  0]LogMemory: Virtual Memory: 678.04 MB used,  9928.30 MB free, 134217728.00 MB total
+[2018.02.19-16.27.02:608][  0]LogInit: Using OS detected language (pl-PL).
+[2018.02.19-16.27.02:608][  0]LogInit: Using OS detected locale (pl-PL).
+[2018.02.19-16.27.02:614][  0]LogTextLocalizationManager: No localization for 'pl-PL' exists, so 'en' will be used for the language.
+[2018.02.19-16.27.02:614][  0]LogTextLocalizationManager: No localization for 'pl-PL' exists, so 'en' will be used for the locale.
+[2018.02.19-16.27.04:128][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.19-16.27.04:234][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.02.19-16.27.04:234][  0]LogD3D11RHI:       6052/0/8135 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.19-16.27.04:252][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.02.19-16.27.04:252][  0]LogD3D11RHI:       128/0/8135 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.19-16.27.04:257][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.19-16.27.04:257][  0]LogD3D11RHI:       0/0/8135 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.19-16.27.04:257][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.19-16.27.04:270][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.19-16.27.04:270][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.19-16.27.04:270][  0]LogWindows: EnumDisplayDevices:
+[2018.02.19-16.27.04:270][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.02.19-16.27.04:270][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.02.19-16.27.04:271][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.02.19-16.27.04:271][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.02.19-16.27.04:271][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.02.19-16.27.04:271][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.02.19-16.27.04:272][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.02.19-16.27.04:272][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.19-16.27.04:272][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.02.19-16.27.04:272][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.19-16.27.04:272][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.19-16.27.04:272][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.02.19-16.27.04:331][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.19-16.27.04:357][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.02.19-16.27.04:360][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Intermediate/Shaders/WorkingDirectory/12116/).
+[2018.02.19-16.27.04:360][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bgadz/AppData/Local/Temp/UnrealShaderWorkingDir/8948339141411BB1266AD3A2CB6A5B47/'.
+[2018.02.19-16.27.04:360][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.19-16.27.06:483][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.19-16.27.06:599][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.19-16.27.06:713][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.19-16.27.06:836][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.19-16.27.06:952][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.19-16.27.07:076][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.19-16.27.07:218][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.19-16.27.07:335][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.19-16.27.07:436][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.19-16.27.07:551][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.19-16.27.07:676][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.19-16.27.07:795][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.19-16.27.07:909][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.19-16.27.08:024][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.19-16.27.08:270][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.19-16.27.08:270][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.19-16.27.08:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.19-16.27.08:481][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.19-16.27.08:655][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.19-16.27.08:716][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.19-16.27.08:828][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.19-16.27.08:941][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.19-16.27.09:056][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.19-16.27.09:170][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.19-16.27.09:170][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.19-16.27.10:345][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.19-16.27.10:494][  0]LogDerivedDataCache: Loaded boot cache 0.15s 78MB C:/Users/bgadz/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.19-16.27.10:494][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bgadz/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.19-16.27.10:494][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.19-16.27.10:494][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.19-16.27.10:494][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.19-16.27.10:494][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.19-16.27.10:532][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.19-16.27.10:545][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bgadz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.19-16.27.10:568][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.19-16.27.10:568][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.19-16.27.10:569][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.19-16.27.10:569][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.19-16.27.11:389][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.19-16.27.12:182][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.19-16.27.12:279][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.19-16.27.12:279][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.19-16.27.12:279][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.19-16.27.12:279][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.19-16.27.12:279][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.19-16.27.12:344][  0]LogNetVersion: MatrixRainShader , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 724548102)
+[2018.02.19-16.27.12:695][  0]LogAssetRegistry: FAssetRegistry took 0.0317 seconds to start up
+[2018.02.19-16.27.13:729][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.065488 seconds
+[2018.02.19-16.27.13:740][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.19-16.27.13:740][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.19-16.27.13:740][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.19-16.27.13:862][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.19-16.27.20:280][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.19-16.27.20:362][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.19-16.27.21:993][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.19-16.27.23:165][  0]SourceControl: Source control is disabled
+[2018.02.19-16.27.23:165][  0]SourceControl: Source control is disabled
+[2018.02.19-16.27.23:314][  0]SourceControl: Source control is disabled
+[2018.02.19-16.27.23:455][  0]SourceControl: Source control is disabled
+[2018.02.19-16.27.25:639][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.19-16.27.26:391][  0]LogOcInput: OculusInput pre-init called
+[2018.02.19-16.27.27:164][  0]LogEngine: Initializing Engine...
+[2018.02.19-16.27.27:170][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.19-16.27.27:625][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.19-16.27.27:625][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.19-16.27.27:945][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.19-16.27.27:956][  0]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.19-16.27.28:029][  0]LogInit: FAudioDevice initialized.
+[2018.02.19-16.27.28:143][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/bgadz/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.19-16.27.28:167][  0]LogInit: Texture streaming: Enabled
+[2018.02.19-16.27.28:391][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.19-16.27.28:688][  0]LogInit: Transaction tracking system initialized
+[2018.02.19-16.27.29:407][  0]BlueprintLog: New page: Editor Load
+[2018.02.19-16.27.31:412][  0]LocalizationService: Localization service is disabled
+[2018.02.19-16.27.33:035][  0]LogConsoleResponse: Display: 
+[2018.02.19-16.27.33:449][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.19-16.27.33:449][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.19-16.27.33:449][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.19-16.27.33:864][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/' took 0.01s
+[2018.02.19-16.27.36:726][  0]SourceControl: Source control is disabled
+[2018.02.19-16.27.36:726][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.19-16.27.36:727][  0]LightingResults: New page: Lighting Build
+[2018.02.19-16.27.36:838][  0]MapCheck: New page: Map Check
+[2018.02.19-16.27.36:839][  0]LightingResults: New page: Lighting Build
+[2018.02.19-16.27.37:430][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.19-16.27.37:445][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.19-16.27.37:476][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.19-16.27.37:595][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 118.704ms to complete.
+[2018.02.19-16.27.37:596][  0]LogFileHelpers: Loading map 'Template_Default' took 0.869
+[2018.02.19-16.27.37:888][  0]LogCollectionManager: Loaded 0 collections in 0.004416 seconds
+[2018.02.19-16.27.38:045][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Saved/Collections/' took 0.01s
+[2018.02.19-16.27.38:045][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/Developers/bgadz/Collections/' took 0.01s
+[2018.02.19-16.27.38:045][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/Collections/' took 0.01s
+[2018.02.19-16.27.38:046][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.19-16.27.38:065][  0]LogContentBrowser: Native class hierarchy populated in 0.0192 seconds. Added 2363 classes and 519 folders.
+[2018.02.19-16.27.38:244][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.02.19-16.27.38:352][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.02.19-16.27.38:464][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.02.19-16.27.38:505][  0]LogSlate: Took 0.000468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.19-16.27.38:513][  0]LogSlate: Took 0.000533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.19-16.27.38:529][  0]LogSlate: Took 0.000481 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.19-16.27.38:773][  0]LogRenderer: Reallocating scene render targets to support 736x332 Format 10 NumSamples 1 (Frame:1).
+[2018.02.19-16.27.39:114][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.02.19-16.27.39:114][  0]LogLoad: (Engine Initialization) Total time: 42.42 seconds
+[2018.02.19-16.27.39:114][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.19-16.27.39:114][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.19-16.27.39:478][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.19-16.27.39:573][  0]LogSlate: Took 0.000395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.19-16.27.40:132][  2]LogAssetRegistry: Asset discovery search completed in 27.4594 seconds
+[2018.02.19-16.27.40:136][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.19-16.27.40:136][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000144 seconds (updated 0 objects)
+[2018.02.19-16.27.40:475][  3]LogSlate: Took 0.000400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.19-16.28.02:070][740]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.19-16.28.02:192][740]LogAIModule: Creating AISystem for world MatrixScene
+[2018.02.19-16.28.02:227][740]Cmd: MAP LOAD FILE="../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/Maps/MatrixScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.19-16.28.02:227][740]LightingResults: New page: Lighting Build
+[2018.02.19-16.28.02:228][740]LoadErrors: New page: Loading map: MatrixScene.umap
+[2018.02.19-16.28.02:229][740]MapCheck: New page: Map Check
+[2018.02.19-16.28.02:229][740]LightingResults: New page: Lighting Build
+[2018.02.19-16.28.02:252][740]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.19-16.28.02:321][740]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.19-16.28.02:428][740]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 106.21ms to complete.
+[2018.02.19-16.28.02:430][740]LogFileHelpers: Loading map 'MatrixScene' took 0.204
+[2018.02.19-16.28.03:464][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.02.19-16.28.05:724][927]Cmd: DELETE
+[2018.02.19-16.28.05:724][927]Cmd: ACTOR DELETE
+[2018.02.19-16.28.05:737][927]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.19-16.28.05:758][927]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.02.19-16.28.06:414][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.19-16.28.06:436][962]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.02.19-16.28.35:671][689]LogEditorViewport: Clicking Background
+[2018.02.19-16.28.37:078][769]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.02.19-16.28.50:174][476]LogActorFactory: Actor Factory created agents_Agent_Smith
+[2018.02.19-16.28.50:176][476]LogActorFactory: Actor Factory created cables
+[2018.02.19-16.28.50:178][476]LogActorFactory: Actor Factory created ceil
+[2018.02.19-16.28.50:179][476]LogActorFactory: Actor Factory created floor
+[2018.02.19-16.28.50:180][476]LogActorFactory: Actor Factory created wall1
+[2018.02.19-16.28.50:181][476]LogActorFactory: Actor Factory created wall2
+[2018.02.19-16.28.50:182][476]LogActorFactory: Actor Factory created wall2b
+[2018.02.19-16.28.50:184][476]LogActorFactory: Actor Factory created wallb1
+[2018.02.19-16.28.50:185][476]LogActorFactory: Actor Factory created walls_Cube
+[2018.02.19-16.28.50:186][476]LogActorFactory: Actor Factory created walls_Cube_001
+[2018.02.19-16.28.50:187][476]LogActorFactory: Actor Factory created walls_Cube_002
+[2018.02.19-16.28.50:451][485]LogActorFactory: Actor Factory created agents_Agent_Smith
+[2018.02.19-16.28.50:506][485]LogActorFactory: Actor Factory created cables
+[2018.02.19-16.28.50:549][485]LogActorFactory: Actor Factory created ceil
+[2018.02.19-16.28.50:594][485]LogActorFactory: Actor Factory created floor
+[2018.02.19-16.28.50:640][485]LogActorFactory: Actor Factory created wall1
+[2018.02.19-16.28.50:684][485]LogActorFactory: Actor Factory created wall2
+[2018.02.19-16.28.50:731][485]LogActorFactory: Actor Factory created wall2b
+[2018.02.19-16.28.50:777][485]LogActorFactory: Actor Factory created wallb1
+[2018.02.19-16.28.50:821][485]LogActorFactory: Actor Factory created walls_Cube
+[2018.02.19-16.28.50:866][485]LogActorFactory: Actor Factory created walls_Cube_001
+[2018.02.19-16.28.50:911][485]LogActorFactory: Actor Factory created walls_Cube_002
+[2018.02.19-16.29.07:132][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (walls_Cube)
+[2018.02.19-16.29.11:145][567]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.02.19-16.29.11:154][567]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.29.11:703][567]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.19-16.29.12:193][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.29.12:204][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.29.12:215][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.29.12:228][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.29.12:241][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.29.12:256][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.29.12:272][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.29.12:284][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.29.12:299][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.29.12:317][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.29.12:333][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.29.12:351][567]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.29.12:444][567]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.29.12:559][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.29.12:574][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.29.12:587][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.29.12:604][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.29.12:619][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.29.12:635][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.29.12:649][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.29.12:664][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.29.12:679][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.29.12:694][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.29.12:708][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.29.12:734][567]LogSlate: Took 0.000450 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.19-16.29.13:528][568]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.19-16.29.14:923][611]LogRenderer: Reallocating scene render targets to support 736x364 Format 10 NumSamples 1 (Frame:4).
+[2018.02.19-16.29.17:490][677]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.29.17:638][677]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.29.17:745][677]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.29.17:759][677]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.29.17:773][677]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.29.17:788][677]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.29.17:804][677]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.29.17:818][677]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.29.17:834][677]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.29.17:849][677]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.29.17:863][677]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.29.17:878][677]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.29.17:894][677]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.29.18:688][688]LogMaterialEditor: Saving and Compiling material MatrixRain
+[2018.02.19-16.29.20:280][688]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.29.20:449][688]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.29.20:553][688]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.29.20:678][688]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatrixRain, compiling. 
+[2018.02.19-16.29.27:635][688]TextureStreamingBuild: Display: Compiling optional shaders took 6.971 seconds.
+[2018.02.19-16.29.32:927][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MatrixRain" FILE="../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain.uasset" SILENT=true
+[2018.02.19-16.29.33:110][688]LogSavePackage: Save=155.41ms
+[2018.02.19-16.29.33:110][688]LogSavePackage: Moving '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Saved/MatrixRain75B422FF438013471EF12FA396B04A11.tmp' to '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain.uasset'
+[2018.02.19-16.29.33:117][688]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain.uasset
+[2018.02.19-16.29.33:131][688]MaterialEditorStats: Base pass shader without light map: 103 instructions
+[2018.02.19-16.29.33:131][688]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.02.19-16.29.33:131][688]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.19-16.29.33:131][688]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.19-16.29.49:121][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (walls_Cube_002)
+[2018.02.19-16.29.57:469][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (walls_Cube)
+[2018.02.19-16.30.02:369][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (walls_Cube_002)
+[2018.02.19-16.30.09:485][ 23]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.02.19-16.30.10:124][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (walls_Cube_001)
+[2018.02.19-16.30.12:725][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor)
+[2018.02.19-16.30.13:493][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall2)
+[2018.02.19-16.30.16:881][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ceil)
+[2018.02.19-16.30.18:104][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor)
+[2018.02.19-16.30.18:792][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall1)
+[2018.02.19-16.30.19:703][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall2)
+[2018.02.19-16.30.21:968][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (walls_Cube_002)
+[2018.02.19-16.30.22:767][759]Cmd: DELETE
+[2018.02.19-16.30.22:767][759]Cmd: ACTOR DELETE
+[2018.02.19-16.30.22:769][759]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.19-16.30.22:790][759]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.02.19-16.30.23:542][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (walls_Cube)
+[2018.02.19-16.30.23:888][820]Cmd: DELETE
+[2018.02.19-16.30.23:888][820]Cmd: ACTOR DELETE
+[2018.02.19-16.30.23:890][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.19-16.30.23:910][820]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.02.19-16.30.24:514][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (walls_Cube_001)
+[2018.02.19-16.30.24:675][861]Cmd: DELETE
+[2018.02.19-16.30.24:675][861]Cmd: ACTOR DELETE
+[2018.02.19-16.30.24:677][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.19-16.30.24:697][861]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.02.19-16.30.42:499][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall2)
+[2018.02.19-16.31.08:942][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (agents_Agent_Smith)
+[2018.02.19-16.38.02:760][274]LogSavePackage: Save=45.92ms
+[2018.02.19-16.38.02:760][274]LogSavePackage: Moving '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Saved/MatrixScene_Auto1629C21064FB3B83C875266A5850C882B.tmp' to '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Saved/Autosaves/Game/Maps/MatrixScene_Auto1.umap'
+[2018.02.19-16.38.02:762][274]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Saved/Autosaves/Game/Maps/MatrixScene_Auto1.umap
+[2018.02.19-16.38.02:766][274]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MatrixScene' took 0.104
+[2018.02.19-16.38.02:766][274]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.104
+[2018.02.19-16.52.11:054][609]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.52.11:143][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.52.11:157][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.52.11:169][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.52.11:181][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.52.11:198][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.52.11:214][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.52.11:230][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.52.11:246][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.52.11:262][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.52.11:279][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.52.11:299][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.52.11:320][609]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.52.11:420][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.52.11:433][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.52.11:448][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.52.11:463][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.52.11:477][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.52.11:492][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.52.11:505][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.52.11:518][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.52.11:530][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.52.11:543][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.52.11:558][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.52.17:946][764]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.52.18:040][764]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.52.18:056][764]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.52.18:071][764]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.52.18:088][764]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.52.18:103][764]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.52.18:120][764]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.52.18:135][764]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.52.18:151][764]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.52.18:167][764]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.52.18:184][764]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.52.18:200][764]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.52.19:088][786]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.52.19:182][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.52.19:197][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.52.19:212][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.52.19:229][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.52.19:246][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.52.19:264][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.52.19:281][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.52.19:298][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.52.19:314][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.52.19:330][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.52.19:345][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.52.27:960][ 15]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.52.28:048][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.52.28:064][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.52.28:077][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.52.28:093][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.52.28:107][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.52.28:122][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.52.28:137][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.52.28:153][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.52.28:167][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.52.28:182][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.52.28:197][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.52.28:215][ 15]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.52.28:326][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.52.28:341][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.52.28:357][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.52.28:372][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.52.28:385][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.52.28:402][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.52.28:418][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.52.28:435][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.52.28:452][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.52.28:466][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.52.28:481][ 15]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.52.33:778][146]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.52.33:883][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.52.33:900][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.52.33:916][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.52.33:933][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.52.33:949][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.52.33:965][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.52.33:981][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.52.33:997][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.52.34:012][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.52.34:029][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.52.34:046][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.52.36:955][222]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.52.37:051][222]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.52.37:064][222]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.52.37:080][222]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.52.37:095][222]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.52.37:111][222]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.52.37:128][222]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.52.37:145][222]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.52.37:161][222]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.52.37:177][222]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.52.37:194][222]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.52.37:209][222]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.52.43:400][379]MaterialEditorStats: Base pass shader without light map: 103 instructions
+[2018.02.19-16.52.43:401][379]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.02.19-16.52.43:401][379]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.19-16.52.43:401][379]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.19-16.52.44:327][402]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_124.MaterialExpressionScalarParameter_0"')'
+[2018.02.19-16.52.44:419][402]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.52.44:545][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.52.44:560][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.52.44:577][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.52.44:593][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.52.44:609][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.52.44:626][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.52.44:643][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.52.44:658][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.52.44:674][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.52.44:690][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.52.44:705][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.52.48:030][481]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.52.48:125][481]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.52.48:141][481]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.52.48:157][481]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.52.48:173][481]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.52.48:188][481]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.52.48:203][481]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.52.48:219][481]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.52.48:235][481]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.52.48:252][481]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.52.48:269][481]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.52.48:285][481]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.52.49:453][512]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.52.49:547][512]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.52.49:563][512]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.52.49:580][512]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.52.49:596][512]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.52.49:612][512]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.52.49:628][512]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.52.49:644][512]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.52.49:660][512]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.52.49:676][512]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.52.49:693][512]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.52.49:708][512]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.52.50:571][535]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.52.50:666][535]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.52.50:679][535]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.52.50:695][535]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.52.50:709][535]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.52.50:726][535]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.52.50:742][535]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.52.50:758][535]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.52.50:773][535]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.52.50:789][535]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.52.50:806][535]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.52.50:823][535]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.52.56:778][672]MaterialEditorStats: Base pass shader without light map: 105 instructions
+[2018.02.19-16.52.56:778][672]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.02.19-16.52.56:778][672]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.19-16.52.56:778][672]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.19-16.52.58:563][719]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_124.MaterialExpressionScalarParameter_0"')'
+[2018.02.19-16.52.58:646][719]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.52.58:763][719]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.52.58:778][719]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.52.58:795][719]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.52.58:810][719]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.52.58:826][719]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.52.58:841][719]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.52.58:854][719]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.52.58:869][719]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.52.58:884][719]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.52.58:899][719]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.52.58:913][719]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.53.01:933][793]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.53.02:031][793]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.53.02:046][793]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.53.02:063][793]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.53.02:078][793]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.53.02:094][793]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.53.02:110][793]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.53.02:126][793]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.53.02:142][793]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.53.02:158][793]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.53.02:175][793]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.53.02:192][793]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.53.04:395][855]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.53.04:483][855]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.53.04:497][855]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.53.04:512][855]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.53.04:529][855]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.53.04:545][855]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.53.04:561][855]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.53.04:575][855]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.53.04:591][855]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.53.04:606][855]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.53.04:623][855]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.53.04:638][855]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.53.10:268][981]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2018.02.19-16.53.10:268][981]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.02.19-16.53.10:268][981]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.19-16.53.10:268][981]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.19-16.53.21:563][364]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.53.21:654][364]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.53.21:666][364]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.53.21:680][364]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.53.21:694][364]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.53.21:708][364]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.53.21:725][364]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.53.21:739][364]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.53.21:754][364]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.53.21:770][364]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.53.21:785][364]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.53.21:801][364]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.53.26:971][481]MaterialEditorStats: Base pass shader without light map: 105 instructions
+[2018.02.19-16.53.26:971][481]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.02.19-16.53.26:971][481]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.19-16.53.26:971][481]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.19-16.53.33:707][680]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.53.33:793][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.53.33:807][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.53.33:822][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.53.33:838][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.53.33:853][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.53.33:866][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.53.33:879][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.53.33:895][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.53.33:910][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.53.33:925][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.53.33:937][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.53.39:275][806]MaterialEditorStats: Base pass shader without light map: 105 instructions
+[2018.02.19-16.53.39:275][806]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.02.19-16.53.39:275][806]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.19-16.53.39:275][806]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.19-16.53.57:243][473]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.53.57:331][473]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.53.57:344][473]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.53.57:359][473]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.53.57:371][473]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.53.57:386][473]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.53.57:400][473]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.53.57:415][473]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.53.57:430][473]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.53.57:445][473]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.53.57:461][473]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.53.57:473][473]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.53.57:488][473]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_0, compiling. 
+[2018.02.19-16.54.02:852][600]MaterialEditorStats: Base pass shader without light map: 105 instructions
+[2018.02.19-16.54.02:852][600]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.02.19-16.54.02:852][600]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.19-16.54.02:852][600]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.19-16.54.04:251][632]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.54.04:369][632]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.54.04:382][632]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.54.04:397][632]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.54.04:411][632]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.54.04:428][632]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.54.04:442][632]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.54.04:459][632]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.54.04:474][632]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.54.04:489][632]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.54.04:504][632]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.54.04:519][632]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.54.09:961][740]MaterialEditorStats: Base pass shader without light map: 105 instructions
+[2018.02.19-16.54.09:961][740]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.02.19-16.54.09:961][740]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.19-16.54.09:961][740]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.19-16.54.14:110][875]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.54.14:182][875]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.54.14:193][875]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.54.14:207][875]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.54.14:223][875]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.54.14:239][875]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.54.14:256][875]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.54.14:271][875]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.54.14:287][875]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.54.14:301][875]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.54.14:314][875]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.54.14:330][875]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.54.19:583][993]MaterialEditorStats: Base pass shader without light map: 105 instructions
+[2018.02.19-16.54.19:583][993]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.02.19-16.54.19:583][993]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.19-16.54.19:583][993]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.19-16.54.22:831][ 86]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.54.22:898][ 86]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.54.22:908][ 86]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.54.22:922][ 86]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.54.22:935][ 86]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.54.22:948][ 86]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.54.22:963][ 86]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.54.22:978][ 86]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.54.22:992][ 86]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.54.23:006][ 86]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.54.23:022][ 86]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.54.23:034][ 86]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.54.27:150][190]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.54.27:265][190]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.19-16.54.27:279][190]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.19-16.54.27:295][190]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.19-16.54.27:312][190]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.19-16.54.27:329][190]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.19-16.54.27:345][190]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.19-16.54.27:362][190]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.19-16.54.27:376][190]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.02.19-16.54.27:391][190]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.19-16.54.27:406][190]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.02.19-16.54.27:424][190]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.02.19-16.54.30:915][269]LogMaterialEditor: Saving and Compiling material MatrixRain
+[2018.02.19-16.54.32:564][269]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.54.32:732][269]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.54.32:841][269]LogMaterial: Missing cached shader map for material MatrixRain, compiling. 
+[2018.02.19-16.54.32:972][269]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatrixRain, compiling. 
+[2018.02.19-16.54.39:566][269]TextureStreamingBuild: Display: Compiling optional shaders took 6.607 seconds.
+[2018.02.19-16.54.44:081][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MatrixRain" FILE="../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain.uasset" SILENT=true
+[2018.02.19-16.54.44:264][269]LogSavePackage: Save=154.79ms
+[2018.02.19-16.54.44:264][269]LogSavePackage: Moving '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Saved/MatrixRainA8D017284FCCD85828320399BA10EAB4.tmp' to '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain.uasset'
+[2018.02.19-16.54.44:273][269]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain.uasset
+[2018.02.19-16.54.44:287][269]MaterialEditorStats: Base pass shader without light map: 105 instructions
+[2018.02.19-16.54.44:287][269]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.02.19-16.54.44:287][269]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.19-16.54.44:287][269]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.19-16.55.07:704][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor)
+[2018.02.19-16.55.15:229][956]LogRenderer: Reallocating scene render targets to support 1112x708 Format 10 NumSamples 1 (Frame:1).
+[2018.02.19-16.55.25:062][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MatrixRain_Inst" FILE="../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain_Inst.uasset" SILENT=true
+[2018.02.19-16.55.25:092][450]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatrixRain_Inst, compiling. 
+[2018.02.19-16.55.26:124][450]TextureStreamingBuild: Display: Compiling optional shaders took 1.038 seconds.
+[2018.02.19-16.55.26:198][450]LogSavePackage: Save=32.54ms
+[2018.02.19-16.55.26:198][450]LogSavePackage: Moving '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Saved/MatrixRain_InstEB7A8EF94B2DA234D5CE81A49761B9D1.tmp' to '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain_Inst.uasset'
+[2018.02.19-16.55.26:205][450]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain_Inst.uasset
+[2018.02.19-16.56.00:046][140]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatrixRain_Inst, compiling. 
+[2018.02.19-16.56.01:121][140]TextureStreamingBuild: Display: Compiling optional shaders took 1.080 seconds.
+[2018.02.19-16.59.47:167][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall1)
+[2018.02.19-17.00.45:126][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cables)
+[2018.02.19-17.00.45:273][904]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.02.19-17.01.14:547][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MatrixRain_Inst2" FILE="../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain_Inst2.uasset" SILENT=true
+[2018.02.19-17.01.14:581][340]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatrixRain_Inst2, compiling. 
+[2018.02.19-17.01.15:620][340]TextureStreamingBuild: Display: Compiling optional shaders took 1.046 seconds.
+[2018.02.19-17.01.15:675][340]LogSavePackage: Save=33.48ms
+[2018.02.19-17.01.15:675][340]LogSavePackage: Moving '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Saved/MatrixRain_Inst27835C00B4B545C85B5D0EFB908FB2B36.tmp' to '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain_Inst2.uasset'
+[2018.02.19-17.01.15:681][340]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain_Inst2.uasset
+[2018.02.19-17.01.17:354][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall1)
+[2018.02.19-17.01.34:171][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MatrixRain_Inst" FILE="../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain_Inst.uasset" SILENT=true
+[2018.02.19-17.01.34:201][273]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatrixRain_Inst, compiling. 
+[2018.02.19-17.01.34:883][273]TextureStreamingBuild: Display: Compiling optional shaders took 0.688 seconds.
+[2018.02.19-17.01.34:959][273]LogSavePackage: Save=32.39ms
+[2018.02.19-17.01.34:959][273]LogSavePackage: Moving '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Saved/MatrixRain_InstF015AE494BFA17B4DF1BB48B1F0C3A74.tmp' to '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain_Inst.uasset'
+[2018.02.19-17.01.34:967][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain_Inst.uasset
+[2018.02.19-17.01.36:785][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cables)
+[2018.02.19-17.01.38:193][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall1)
+[2018.02.19-17.01.38:779][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (agents_Agent_Smith)
+[2018.02.19-17.01.42:082][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall1)
+[2018.02.19-17.01.52:336][244]LogEditorViewport: Clicking Background
+[2018.02.19-17.02.20:419][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor)
+[2018.02.19-17.03.31:681][126]LogSavePackage: Save=45.61ms
+[2018.02.19-17.03.31:681][126]LogSavePackage: Moving '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Saved/MatrixScene72F3EFFC4E4221C8BA4717A1578E538D.tmp' to '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/Maps/MatrixScene.umap'
+[2018.02.19-17.03.31:686][126]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/Maps/MatrixScene.umap
+[2018.02.19-17.03.31:744][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MatrixScene_BuiltData" FILE="../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/Maps/MatrixScene_BuiltData.uasset" SILENT=true
+[2018.02.19-17.03.31:797][126]LogSavePackage: Save=30.75ms
+[2018.02.19-17.03.31:797][126]LogSavePackage: Moving '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Saved/MatrixScene_BuiltDataBBF1EFCF441637527FE5469B19712D6A.tmp' to '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/Maps/MatrixScene_BuiltData.uasset'
+[2018.02.19-17.03.31:800][126]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/Maps/MatrixScene_BuiltData.uasset
+[2018.02.19-17.03.35:100][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall2)
+[2018.02.19-17.04.27:972][990]LogTemp: Repeating last play command: Simulate
+[2018.02.19-17.04.28:036][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-17.04.28:036][990]PIE: New page: SIE session: MatrixScene (Feb 19, 2018, 7:04:28 PM)
+[2018.02.19-17.04.28:036][990]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MatrixScene
+[2018.02.19-17.04.28:039][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002886s)
+[2018.02.19-17.04.28:040][990]LogAIModule: Creating AISystem for world MatrixScene
+[2018.02.19-17.04.28:041][990]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2018.02.19-17.04.28:041][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MatrixScene.MatrixScene to /Game/Maps/UEDPIE_0_MatrixScene.MatrixScene (0.004579s)
+[2018.02.19-17.04.28:069][990]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.19-17.04.28:136][990]LogInit: FAudioDevice initialized.
+[2018.02.19-17.04.28:188][990]LogLoad: Game class is 'GameModeBase'
+[2018.02.19-17.04.28:192][990]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MatrixScene.MatrixScene up for play (max tick rate 60) at 2018.02.19-18.04.28
+[2018.02.19-17.04.28:193][990]LogWorld: Bringing up level for play took: 0.001720
+[2018.02.19-17.04.28:194][990]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.02.19-17.04.28:291][990]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2018.02.19-17.04.28:292][990]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MatrixScene 1.075
+[2018.02.19-17.04.42:969][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall2)
+[2018.02.19-17.04.50:676][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-17.04.50:677][880]PIE: New page: PIE session: MatrixScene (Feb 19, 2018, 7:04:50 PM)
+[2018.02.19-17.04.50:677][880]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MatrixScene
+[2018.02.19-17.04.50:680][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002793s)
+[2018.02.19-17.04.50:681][880]LogAIModule: Creating AISystem for world MatrixScene
+[2018.02.19-17.04.50:681][880]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2018.02.19-17.04.50:681][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MatrixScene.MatrixScene to /Game/Maps/UEDPIE_0_MatrixScene.MatrixScene (0.004337s)
+[2018.02.19-17.04.50:704][880]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.19-17.04.50:775][880]LogInit: FAudioDevice initialized.
+[2018.02.19-17.04.50:815][880]LogLoad: Game class is 'GameModeBase'
+[2018.02.19-17.04.50:817][880]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MatrixScene.MatrixScene up for play (max tick rate 60) at 2018.02.19-18.04.50
+[2018.02.19-17.04.50:817][880]LogWorld: Bringing up level for play took: 0.001303
+[2018.02.19-17.04.50:820][880]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MatrixScene -0.398
+[2018.02.19-17.10.41:320][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ceil)
+[2018.02.19-17.10.45:882][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MatrixRain_Inst1" FILE="../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain_Inst1.uasset" SILENT=true
+[2018.02.19-17.10.45:924][925]LogSavePackage: Save=35.50ms
+[2018.02.19-17.10.45:924][925]LogSavePackage: Moving '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Saved/MatrixRain_Inst1455303914072A59497E6B49C377408F2.tmp' to '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain_Inst1.uasset'
+[2018.02.19-17.10.45:929][925]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain_Inst1.uasset
+[2018.02.19-17.10.45:967][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MatrixRain_Inst2" FILE="../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain_Inst2.uasset" SILENT=true
+[2018.02.19-17.10.45:996][925]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatrixRain_Inst2, compiling. 
+[2018.02.19-17.10.47:081][925]TextureStreamingBuild: Display: Compiling optional shaders took 1.091 seconds.
+[2018.02.19-17.10.47:159][925]LogSavePackage: Save=33.64ms
+[2018.02.19-17.10.47:159][925]LogSavePackage: Moving '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Saved/MatrixRain_Inst29E23B1E74814CCA77DC79CB8F4AC0D3D.tmp' to '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain_Inst2.uasset'
+[2018.02.19-17.10.47:167][925]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/MatrixRain_Inst2.uasset
+[2018.02.19-17.10.47:426][925]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.19-17.10.47:778][926]Cmd: QUIT_EDITOR
+[2018.02.19-17.10.48:532][926]LogExit: Preparing to exit.
+[2018.02.19-17.10.49:309][926]LogDirectoryWatcher: A directory notification for 'C:/Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/' was aborted.
+[2018.02.19-17.10.49:337][926]LogExit: Editor shut down
+[2018.02.19-17.10.49:359][926]LogExit: Transaction tracking system shut down
+[2018.02.19-17.10.49:515][926]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.19-17.10.49:515][926]LogDirectoryWatcher: A directory notification for '../../../../../../Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/' was aborted.
+[2018.02.19-17.10.49:515][926]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.19-17.10.49:515][926]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.19-17.10.49:515][926]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.19-17.10.49:515][926]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.19-17.10.49:515][926]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.19-17.10.49:605][926]LogExit: Object subsystem successfully closed.
+[2018.02.19-17.10.49:637][926]LogD3D11RHI: Shutdown
+[2018.02.19-17.10.49:638][926]LogD3D11RHI: CleanupD3DDevice
+[2018.02.19-17.10.49:680][926]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.19-17.10.49:716][926]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.02.19-17.10.49:716][926]LogModuleManager: Shutting down and abandoning module MaterialEditor (552)
+[2018.02.19-17.10.49:716][926]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.02.19-17.10.49:716][926]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.02.19-17.10.49:716][926]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.02.19-17.10.49:717][926]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.19-17.10.49:719][926]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.02.19-17.10.49:719][926]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.02.19-17.10.49:719][926]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.02.19-17.10.49:719][926]LogDirectoryWatcher: A directory notification for 'C:/Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/Collections/' was aborted.
+[2018.02.19-17.10.49:719][926]LogDirectoryWatcher: A directory notification for 'C:/Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Content/Developers/bgadz/Collections/' was aborted.
+[2018.02.19-17.10.49:720][926]LogDirectoryWatcher: A directory notification for 'C:/Users/bgadz/Documents/Unreal Projects/MatrixRainShader/Saved/Collections/' was aborted.
+[2018.02.19-17.10.49:720][926]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (538)
+[2018.02.19-17.10.49:720][926]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.02.19-17.10.49:720][926]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.02.19-17.10.49:720][926]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.02.19-17.10.49:720][926]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.02.19-17.10.49:720][926]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.02.19-17.10.49:721][926]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.02.19-17.10.49:721][926]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.02.19-17.10.49:721][926]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.02.19-17.10.49:721][926]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.02.19-17.10.49:721][926]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.02.19-17.10.49:721][926]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.02.19-17.10.49:721][926]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.02.19-17.10.49:721][926]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.02.19-17.10.49:721][926]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.02.19-17.10.49:721][926]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.02.19-17.10.49:721][926]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.02.19-17.10.49:721][926]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.02.19-17.10.49:721][926]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.02.19-17.10.49:721][926]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.02.19-17.10.49:721][926]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.02.19-17.10.49:721][926]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.02.19-17.10.49:721][926]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.02.19-17.10.49:722][926]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.02.19-17.10.49:722][926]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.02.19-17.10.49:722][926]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.02.19-17.10.49:722][926]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.02.19-17.10.49:722][926]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.02.19-17.10.49:722][926]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.02.19-17.10.49:722][926]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.02.19-17.10.49:722][926]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.02.19-17.10.49:722][926]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.02.19-17.10.49:722][926]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.02.19-17.10.49:722][926]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.02.19-17.10.49:722][926]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.02.19-17.10.49:722][926]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.02.19-17.10.49:722][926]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.02.19-17.10.49:723][926]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.02.19-17.10.49:723][926]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.02.19-17.10.49:723][926]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.02.19-17.10.49:723][926]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.02.19-17.10.49:723][926]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.02.19-17.10.50:222][926]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.02.19-17.10.50:223][926]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.02.19-17.10.50:223][926]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.02.19-17.10.50:223][926]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.02.19-17.10.50:223][926]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.02.19-17.10.50:223][926]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.02.19-17.10.50:223][926]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.02.19-17.10.50:223][926]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.02.19-17.10.50:223][926]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.02.19-17.10.50:223][926]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.02.19-17.10.50:223][926]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.02.19-17.10.50:223][926]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.02.19-17.10.50:223][926]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.02.19-17.10.50:223][926]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.02.19-17.10.50:223][926]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.02.19-17.10.50:223][926]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.02.19-17.10.50:223][926]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.02.19-17.10.50:224][926]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.02.19-17.10.50:224][926]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.02.19-17.10.50:224][926]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.02.19-17.10.50:224][926]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.02.19-17.10.50:224][926]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.02.19-17.10.50:224][926]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.02.19-17.10.50:224][926]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.02.19-17.10.50:277][926]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.02.19-17.10.50:277][926]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.02.19-17.10.50:277][926]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.02.19-17.10.50:277][926]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.02.19-17.10.50:277][926]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.02.19-17.10.50:277][926]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.02.19-17.10.50:277][926]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.02.19-17.10.50:277][926]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.02.19-17.10.50:277][926]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.02.19-17.10.50:277][926]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.02.19-17.10.50:278][926]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.02.19-17.10.50:278][926]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.02.19-17.10.50:278][926]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.02.19-17.10.50:278][926]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.02.19-17.10.50:278][926]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.02.19-17.10.50:278][926]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.02.19-17.10.50:278][926]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.02.19-17.10.50:279][926]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.02.19-17.10.50:279][926]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.02.19-17.10.50:279][926]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.02.19-17.10.50:279][926]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.02.19-17.10.50:279][926]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.02.19-17.10.50:279][926]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.02.19-17.10.50:279][926]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.02.19-17.10.50:279][926]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.02.19-17.10.50:279][926]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.02.19-17.10.50:279][926]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.02.19-17.10.50:279][926]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.02.19-17.10.50:279][926]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.02.19-17.10.50:279][926]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.02.19-17.10.50:436][926]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.02.19-17.10.50:437][926]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.02.19-17.10.50:437][926]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.02.19-17.10.50:437][926]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.02.19-17.10.50:437][926]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.02.19-17.10.50:437][926]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.02.19-17.10.50:437][926]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.02.19-17.10.50:437][926]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.02.19-17.10.50:437][926]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.02.19-17.10.50:437][926]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.02.19-17.10.50:437][926]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.02.19-17.10.50:437][926]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.02.19-17.10.50:437][926]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.02.19-17.10.50:437][926]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.02.19-17.10.50:437][926]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.02.19-17.10.50:439][926]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.02.19-17.10.50:439][926]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.02.19-17.10.50:439][926]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.02.19-17.10.50:441][926]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.19-17.10.50:441][926]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.19-17.10.50:441][926]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.19-17.10.50:441][926]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.19-17.10.50:441][926]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.19-17.10.50:441][926]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.19-17.10.50:441][926]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.19-17.10.50:441][926]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.19-17.10.50:542][926]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.19-17.10.50:642][926]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.19-17.10.50:642][926]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.19-17.10.50:642][926]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.19-17.10.50:642][926]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.19-17.10.50:643][926]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.19-17.10.50:643][926]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.19-17.10.50:645][926]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.19-17.10.50:645][926]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.19-17.10.50:645][926]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.19-17.10.50:646][926]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.19-17.10.50:653][926]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.19-17.10.50:653][926]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.19-17.10.50:653][926]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.19-17.10.50:653][926]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.19-17.10.50:653][926]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.19-17.10.50:654][926]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.19-17.10.50:660][926]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.19-17.10.50:660][926]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.19-17.10.50:661][926]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.19-17.10.50:661][926]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.19-17.10.50:661][926]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.19-17.10.50:661][926]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.19-17.10.50:661][926]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.19-17.10.50:661][926]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.19-17.10.50:661][926]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.19-17.10.50:661][926]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.19-17.10.50:661][926]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.19-17.10.50:661][926]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.19-17.10.50:662][926]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.19-17.10.50:662][926]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.19-17.10.50:662][926]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.19-17.10.50:662][926]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.19-17.10.50:669][926]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.19-17.10.50:669][926]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.19-17.10.50:669][926]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.19-17.10.50:669][926]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.19-17.10.50:669][926]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.19-17.10.50:669][926]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.19-17.10.50:669][926]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.19-17.10.50:669][926]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.19-17.10.50:674][926]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.19-17.10.50:674][926]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.19-17.10.50:674][926]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.19-17.10.50:674][926]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.19-17.10.50:674][926]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.19-17.10.50:674][926]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.19-17.10.50:674][926]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.19-17.10.50:674][926]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.19-17.10.50:674][926]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.19-17.10.50:693][926]LogDerivedDataCache: Shutdown
+[2018.02.19-17.10.50:693][926]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.19-17.10.50:693][926]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.19-17.10.50:693][926]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.19-17.10.50:693][926]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.19-17.10.50:693][926]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.19-17.10.50:693][926]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.19-17.10.50:693][926]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.19-17.10.50:694][926]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.19-17.10.50:694][926]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.19-17.10.50:694][926]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.19-17.10.50:694][926]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.19-17.10.50:694][926]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.19-17.10.50:694][926]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.19-17.10.50:694][926]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.19-17.10.50:694][926]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.19-17.10.50:694][926]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.19-17.10.50:694][926]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.19-17.10.50:694][926]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.19-17.10.50:694][926]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.19-17.10.50:694][926]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.19-17.10.50:695][926]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.19-17.10.50:695][926]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.19-17.10.50:695][926]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.19-17.10.50:695][926]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.19-17.10.50:695][926]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.19-17.10.50:695][926]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.19-17.10.50:695][926]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.19-17.10.50:695][926]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.19-17.10.50:695][926]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.19-17.10.50:695][926]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.19-17.10.50:695][926]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.19-17.10.50:695][926]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.19-17.10.50:695][926]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.19-17.10.50:695][926]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.19-17.10.50:695][926]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.19-17.10.50:695][926]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.19-17.10.50:696][926]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.19-17.10.50:696][926]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.19-17.10.50:696][926]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.19-17.10.50:696][926]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.19-17.10.50:696][926]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.19-17.10.50:696][926]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.19-17.10.50:696][926]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.19-17.10.50:696][926]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.19-17.10.50:696][926]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.19-17.10.50:696][926]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.19-17.10.50:697][926]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.19-17.10.50:697][926]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.19-17.10.50:697][926]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.19-17.10.50:697][926]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.19-17.10.50:697][926]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.19-17.10.50:697][926]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.19-17.10.50:697][926]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.19-17.10.50:697][926]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.19-17.10.50:697][926]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B32E794C1-4797-04F6-C35B-10B10B9F1CA1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=319c03714c85228ac5c2bfa6ca7727d1%7C1a6a86a9e0604930ae3a787e86a11128%7Cf867107d-39d7-49c7-8c46-09e53f125fcc&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.19-17.10.50:721][926]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.19-17.10.50:725][926]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.19-17.10.50:726][926]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.19-17.10.50:726][926]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.19-17.10.50:726][926]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.19-17.10.50:726][926]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.19-17.10.50:727][926]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.19-17.10.50:727][926]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.19-17.10.50:730][926]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.19-17.10.50:730][926]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.19-17.10.50:730][926]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.19-17.10.50:730][926]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.19-17.10.50:730][926]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.19-17.10.50:731][926]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.19-17.10.50:731][926]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.19-17.10.50:731][926]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.19-17.10.50:731][926]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.19-17.10.50:731][926]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.19-17.10.50:731][926]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.19-17.10.50:744][926]LogExit: Exiting.
+[2018.02.19-17.10.50:784][926]Log file closed, 02/19/18 18:10:50
