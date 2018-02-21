@@ -16,13 +16,13 @@ void draw() {
     }
   }
   for (int x = 0; x <= width; x += gap) {
-    char letter =  RandomChar();
+    char letter =  randomChar();
     fillLet();
     text(letter, x, 0);
     text(letter, x, height);
   }
   for (int y = gap; y < height; y += gap) {
-    char letter = RandomChar();
+    char letter = randomChar();
     fillLet();
     text(letter, 0, y);
     text(letter, width, y);
@@ -39,7 +39,7 @@ void drawMatrixLetter(int x, int y) {
   fillLet();
   text(letter, x, y);
 }
-char RandomChar() {
+char randomChar() {
   char letter = char(45+(byte)random(105));
   return letter;
 }

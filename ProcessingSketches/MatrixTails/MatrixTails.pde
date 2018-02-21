@@ -27,10 +27,10 @@ void draw() {
     if (segRandH>height/2) // for fast tails
     {
       if (x==0) {
-        MakeSpeedBand(x, gap);
-        MakeSpeedBand(width, gap);
+        makeSpeedBand(x, gap);
+        makeSpeedBand(width, gap);
       } else
-        MakeSpeedBand(x, gap);
+        makeSpeedBand(x, gap);
     }
   }
   saveFrame();
@@ -66,7 +66,7 @@ void makeSquare(int xPos, int yPos, int w) {
   strokeWeight(0);
   rect(xPos, yPos, w, w);
 }
-void MakeSpeedBand(int xPos, int gap) {
+void makeSpeedBand(int xPos, int gap) {
   fill(maskB);
   rect(xPos, height/2, gap, height);
 }
